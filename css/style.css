@@ -222,3 +222,8 @@ small{
 .bg-green{
 	background-color: #4CAF50;
 }
+.img-icon1{
+	max-width: 64px;
+	margin: 0 auto;
+	/*line & IG*/
+}
