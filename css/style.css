@@ -157,7 +157,7 @@ body a{
 	margin: 0 auto;
 	display: block;
 }
-.thumbnailtitle{
+.title-border{
 	background-color: #e77b3c;
     padding: 0;
     margin: 0 auto;
@@ -171,13 +171,11 @@ body a{
 .imgbg{
 	border-radius: 50% / 50%;
 	background-color: #e77b3c;
-}
-.figure.imgbg{
 	width: 90%;
 	height: 90%;
 	vertical-align: middle;
 }
-.vip-text.title1, .mb-1.title1{
+.text-black{
 	color: black;
 }
 .vip-text{
@@ -190,11 +188,6 @@ body a{
 .thumbnail{
 	width: 80%;
 	align-items: center;
-}
-.col-xs-6.col-sm-4.box1{
-	background: none;
-	padding-bottom: 10px;
-	padding-top: 10px;
 }
 .caption{
 	background-color: bisque;
@@ -226,13 +219,6 @@ small{
 	margin-top: 20px;
 	box-shadow: 3px 3px 1px 1px black;
 }
-.thumbnailtitle1{
+.bg-green{
 	background-color: #4CAF50;
-    padding: 0;
-    margin: 0 auto;
-    margin-top: 16px;
-    margin-bottom: 16px;
-    color: #fff;
-    border-radius: 16px;
-    text-align: center;
 }
