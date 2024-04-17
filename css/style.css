@@ -169,9 +169,9 @@ body a{
 }
 .imgbg{
 	border-radius: 50% / 50%;
-	background-color: #e77b3c;
-	width: 90%;
-	height: 90%;
+	border: solid 3px #e77b3c;
+	width: 300px;
+	height: 300px;
 	vertical-align: middle;
 }
 .text-black{
